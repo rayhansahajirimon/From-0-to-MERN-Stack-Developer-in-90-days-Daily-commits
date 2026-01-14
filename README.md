@@ -51,7 +51,4 @@ The challenge is divided into clear phases:
 - Reusable components & SOPs
 - Portfolio & deployment
 
----
-
-## 📂 Repository Structure
 
